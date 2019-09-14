@@ -1,4 +1,5 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# Counter App with Redux
+Basic counter app developed with React using Redux for state management. It is certainly an overkill for such kind of state, but for demonstration and exercise purposes only though.
 
 ## Available Scripts
 
